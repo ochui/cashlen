@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="56px" viewBox="0 0 60 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <g id="Vector-Smart-Object31" transform="translate(1.000000, 1.000000)">
+                <path d="M31,19.77 C30.9999924,20.8508226 30.3483805,21.8250281 29.3494416,22.2377006 C28.3505028,22.6503731 27.2013078,22.4201004 26.4384861,21.6544109 C25.6756643,20.8887214 25.4497054,19.7386705 25.8661233,18.7412871 C26.2825412,17.7439038 27.259185,17.095952 28.34,17.1 C29.0472119,17.099995 29.7253132,17.3816165 30.2244484,17.8826282 C30.7235836,18.3836398 31.0026587,19.0627931 31,19.77 Z" id="Shape" fill="#6AA53D" fill-rule="nonzero"></path>
+                <path d="M21.65,19.77 C21.6499697,20.8517277 20.9972598,21.826548 19.9970916,22.238614 C18.9969234,22.6506799 17.8469567,22.4185564 17.0849406,21.6507893 C16.3229246,20.8830221 16.0994538,19.7313427 16.5190281,18.7343009 C16.9386024,17.7372592 17.9183027,17.0918972 19,17.1 C19.7054774,17.1026472 20.3810082,17.3854383 20.8779806,17.8861615 C21.3749531,18.3868848 21.6526572,19.0645226 21.65,19.77 Z" id="Shape" fill="#6AA53D" fill-rule="nonzero"></path>
+                <circle id="Oval" fill="#6AA53D" fill-rule="nonzero" cx="37.65" cy="19.77" r="2.67"></circle>
+                <path d="M14.88,52.32 L42.96,52.32" id="Shape" stroke="#64696C" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M20.41,42.96 L20.41,52.47" id="Shape" stroke="#64696C" stroke-width="2"></path>
+                <path d="M37.44,42.96 L37.44,52.47" id="Shape" stroke="#64696C" stroke-width="2"></path>
+                <rect id="Rectangle-path" stroke="#9FAAB2" stroke-width="2" x="0" y="0" width="57.85" height="43.11" rx="3.68"></rect>
+                <path d="M0.69,32.84 L58,32.84" id="Shape" stroke="#9FAAB2" stroke-width="2"></path>
+                <path d="M0.69,6.84 L58,6.84" id="Shape" stroke="#9FAAB2" stroke-width="2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

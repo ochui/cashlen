@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="61px" viewBox="0 0 60 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <g id="Vector-Smart-Object11" transform="translate(1.000000, 0.000000)">
+                <path d="M51.34,39.14 L51.34,56.14 C51.3426567,57.162815 50.938206,58.1446486 50.2159028,58.8688279 C49.4935995,59.5930072 48.5128185,60.0000035 47.49,60 L3.85,60 C1.72370371,60 3.99680289e-15,58.2762963 0,56.15 L0,12.83 C0.0164407187,10.7137988 1.73374186,9.00541869 3.85,9 L47.49,9 C49.6140158,9.00549554 51.3345045,10.7259842 51.34,12.85 L51.34,18" id="Shape" stroke="#9FAAB2" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M0.85,15.98 L51.49,15.98" id="Shape" stroke="#9FAAB2" stroke-width="2"></path>
+                <path d="M7.7,9 L7.7,3.85 C7.7,2.82891651 8.10562384,1.84965395 8.82763889,1.12763889 C9.54965395,0.405623835 10.5289165,-9.69427648e-16 11.55,0 C13.6762963,1.07446334e-15 15.4,1.72370371 15.4,3.85 L15.4,9 L7.7,9 Z" id="Shape" fill="#9FAAB2" fill-rule="nonzero"></path>
+                <path d="M35.94,9 L35.94,3.85 C35.94,1.72370371 37.6637037,-1.30198097e-16 39.79,0 C41.9162963,1.30198097e-16 43.64,1.72370371 43.64,3.85 L43.64,9 L35.94,9 Z" id="Shape" fill="#9FAAB2" fill-rule="nonzero"></path>
+                <rect id="Rectangle-path" stroke="#64696C" stroke-width="2" x="9.34" y="24.65" width="5.74" height="5.74"></rect>
+                <rect id="Rectangle-path" stroke="#64696C" stroke-width="2" x="19.82" y="24.65" width="5.74" height="5.74"></rect>
+                <rect id="Rectangle-path" stroke="#64696C" stroke-width="2" x="30.3" y="24.65" width="5.74" height="5.74"></rect>
+                <rect id="Rectangle-path" stroke="#64696C" stroke-width="2" x="9.34" y="35.12" width="5.74" height="5.74"></rect>
+                <rect id="Rectangle-path" stroke="#64696C" stroke-width="2" x="9.34" y="45.6" width="5.74" height="5.74"></rect>
+                <path d="M20.78,36.87 L24,33.92 C27.6216258,35.6426792 31.0677401,37.7123572 34.29,40.1 C42.19,31.1 47.41,26.59 57.12,20.55 L58.12,22.94 C50.12,29.94 44.25,37.7 35.81,52.84 C31.1675215,47.1823661 26.1459543,41.8467421 20.78,36.87 Z" id="check-mark-6-icon" fill="#6AA53D" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

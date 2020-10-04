@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 229fdcdf6d0e9794aa82de9069ff3aab3cb42707 root <root@server.fastinstant-cashlendings.com> 1601103044 +0000	initial pull
+229fdcdf6d0e9794aa82de9069ff3aab3cb42707 09727817c990636f5f55ab28c983b9f403fd7027 root <root@server.fastinstant-cashlendings.com> 1601272384 +0000	pull origin master: Fast-forward
+09727817c990636f5f55ab28c983b9f403fd7027 b2f10080319588fbfa3f20659e6b251e07bfc247 root <root@server.fastinstant-cashlendings.com> 1601294737 +0000	pull origin master: Fast-forward
+b2f10080319588fbfa3f20659e6b251e07bfc247 6d21a129e3b3d277397cf7df7e6b66a901e73c4e root <root@server.fastinstant-cashlendings.com> 1601295895 +0000	pull origin master: Fast-forward
+6d21a129e3b3d277397cf7df7e6b66a901e73c4e c1d6287908d2b5b0f4229ad3e61c16b2fc1ee454 root <root@server.fastinstant-cashlendings.com> 1601296041 +0000	pull origin master: Fast-forward
+c1d6287908d2b5b0f4229ad3e61c16b2fc1ee454 7702e22e43d169e8683948cc6a07f8f57619af9d root <root@server.fastinstant-cashlendings.com> 1601296273 +0000	pull origin master: Fast-forward
+7702e22e43d169e8683948cc6a07f8f57619af9d db97dc41c982b6947c4eaf22d214453147327dbc root <root@server.fastinstant-cashlendings.com> 1601296434 +0000	pull origin master: Fast-forward
+db97dc41c982b6947c4eaf22d214453147327dbc 64223e1e65dbba6db35f625d0c66f5685a764020 root <root@server.fastinstant-cashlendings.com> 1601296528 +0000	pull origin master: Fast-forward
+64223e1e65dbba6db35f625d0c66f5685a764020 527522ca2ef4ceaf25bdf49fec3a8f25c2675936 root <root@server.fastinstant-cashlendings.com> 1601296587 +0000	pull origin master: Fast-forward
+527522ca2ef4ceaf25bdf49fec3a8f25c2675936 fb061b4e1e03b9e656a4645e7d97c364cd527d0a root <root@server.fastinstant-cashlendings.com> 1601296896 +0000	pull origin master: Fast-forward
+fb061b4e1e03b9e656a4645e7d97c364cd527d0a af8d8490661de3ea6f1759a5d9e40579a37d3da4 root <root@server.fastinstant-cashlendings.com> 1601446129 +0000	pull origin master: Fast-forward
+af8d8490661de3ea6f1759a5d9e40579a37d3da4 4e71ca63ab2c9428b1493deedc8ff7f218905488 root <root@server.fastinstant-cashlendings.com> 1601459996 +0000	pull origin master: Fast-forward
+4e71ca63ab2c9428b1493deedc8ff7f218905488 29cd31bafbf4fe94bb006d4e434b9503dfb18b29 root <root@server.fastinstant-cashlendings.com> 1601470806 +0000	pull origin master: Fast-forward
+29cd31bafbf4fe94bb006d4e434b9503dfb18b29 29cd31bafbf4fe94bb006d4e434b9503dfb18b29 root <root@server.fastinstant-cashlendings.com> 1601797787 +0000	Branch: renamed refs/heads/master to refs/heads/main
