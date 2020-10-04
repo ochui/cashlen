@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="61px" height="50px" viewBox="0 0 61 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
-    <title>Artboard</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Artboard">
-            <g id="Vector-Smart-Object1" transform="translate(1.000000, 1.000000)">
-                <path d="M36.37,47.68 L2.69,47.68 C1.20825052,47.6800102 0.00550836234,46.4817392 8.96133753e-16,45 L8.96133753e-16,2.69 C-0.00267011238,1.97575243 0.279882273,1.28998793 0.7849351,0.7849351 C1.28998793,0.279882273 1.97575243,-0.00267011238 2.69,-7.91359166e-16 L49,-7.91359166e-16 C49.7159758,-0.00534831111 50.4043221,0.27602119 50.911546,0.781366469 C51.4187699,1.28671175 51.7026916,1.9740093 51.7,2.69 L51.7,14.77" id="Shape" stroke="#64696C" stroke-width="2"></path>
-                <path d="M11.64,14.33 L39.84,14.33" id="Shape" stroke="#64696C" stroke-width="2" stroke-linecap="round"></path>
-                <path d="M11.64,23.73 L25.07,23.73" id="Shape" stroke="#64696C" stroke-width="2" stroke-linecap="round"></path>
-                <path d="M11.64,33.13 L21.04,33.13" id="Shape" stroke="#64696C" stroke-width="2" stroke-linecap="round"></path>
-                <path d="M27.4,30.39 L30.19,27.82 C33.362022,29.3124465 36.3769956,31.1180807 39.19,33.21 C46.09,25.39 50.64,21.42 59.1,16.15 L60,18.24 C53,24.33 47.91,31.12 40.55,44.32 C36.4919394,39.380038 32.0981927,34.7256736 27.4,30.39 Z" id="check-mark-6-icon" fill="#6AA53D" fill-rule="nonzero"></path>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="61" height="50" version="1.1" viewBox="0 0 61 50"><title>Artboard</title><desc>Created with Sketch.</desc><g id="Page-1" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="Artboard"><g id="Vector-Smart-Object1" transform="translate(1.000000, 1.000000)"><path id="Shape" stroke="#64696C" stroke-width="2" d="M36.37,47.68 L2.69,47.68 C1.20825052,47.6800102 0.00550836234,46.4817392 8.96133753e-16,45 L8.96133753e-16,2.69 C-0.00267011238,1.97575243 0.279882273,1.28998793 0.7849351,0.7849351 C1.28998793,0.279882273 1.97575243,-0.00267011238 2.69,-7.91359166e-16 L49,-7.91359166e-16 C49.7159758,-0.00534831111 50.4043221,0.27602119 50.911546,0.781366469 C51.4187699,1.28671175 51.7026916,1.9740093 51.7,2.69 L51.7,14.77"/><path id="Shape" stroke="#64696C" stroke-linecap="round" stroke-width="2" d="M11.64,14.33 L39.84,14.33"/><path id="Shape" stroke="#64696C" stroke-linecap="round" stroke-width="2" d="M11.64,23.73 L25.07,23.73"/><path id="Shape" stroke="#64696C" stroke-linecap="round" stroke-width="2" d="M11.64,33.13 L21.04,33.13"/><path id="check-mark-6-icon" fill="#6AA53D" fill-rule="nonzero" d="M27.4,30.39 L30.19,27.82 C33.362022,29.3124465 36.3769956,31.1180807 39.19,33.21 C46.09,25.39 50.64,21.42 59.1,16.15 L60,18.24 C53,24.33 47.91,31.12 40.55,44.32 C36.4919394,39.380038 32.0981927,34.7256736 27.4,30.39 Z"/></g></g></g></svg>
